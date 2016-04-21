@@ -1,0 +1,351 @@
+cancer
+preeclampsia
+hepatocellular
+metastatic
+metastasis
+hepatoblastoma
+neoplasia
+tumor
+tumour
+
+cirrhosis
+hemochromatosis
+
+cardiac
+hypertension
+heart attack
+infarct
+coronary thrombosis
+thrombosis
+IHD
+Heart failure
+cardiomyopathy
+Wolff Parkinson White
+Amiloidosis
+
+respiratory
+asthma
+cold
+chills
+sinusitis
+pneumonia
+bronchitis
+Bronchiolitis
+stenosis
+pleuritis
+pleurisy
+
+
+diabetes
+
+disease
+disease prevention
+zika
+chikungunya
+dengue
+symptoms
+
+viral disease
+
+epidemiology
+AIDS
+HIV
+smallpox
+variola
+pox
+AH1N1
+flu
+Mad Cow syndrome
+malaria
+paludism
+marsh fever
+tuberculosis
+TB
+Hepatitis 
+meningitis
+
+Fat Food
+Fast Food
+Taco
+Avocado
+Cheese
+Chocolate
+Egg
+Fish
+Nut
+Chia Seed
+Olive
+Coconut
+Yogurt
+Milk
+Chips
+Potato Chips
+Sausage
+Ice Cream
+French Fries
+Broaster Chicken
+Grilled chicken
+Pizza
+Cheeseburgers
+Popcorn
+Chicken
+Potpie
+Linguine
+Salad
+Butter
+Vanilla
+Sugar
+Candy
+Candies
+Ice Breakers
+Orbit White
+Dentyne Ice
+Tic Tac
+Hershey's Kisses
+Hershey's
+Trident
+Butterfinger
+Nestle
+Milky Way
+Starburst
+Musketeers
+Dove
+Skittles
+Twizzlers
+Twix
+Ferrero
+Kit Kat
+Stride
+Trident
+Snickers
+Reese's
+Peanut
+Butter
+Cups
+M&Ms
+Wonka
+Fun Dip
+Razzles
+Goobers
+Jolly Ranger
+Caramel
+Pringles
+Hanuta
+Nutella
+Trolli
+Gummy
+Gummy bear
+Gummy worm
+Gummy Snakes
+Candy necklaces
+Coffee
+Oreo
+Cotton Candy
+Bubblegum
+Drugs
+Cocaine
+DMT
+GHB
+Heroin
+Ketamine
+Hallucinogens
+Marijuana
+amphetamine
+Methamphetamine
+Salvia
+Steroids
+LCD
+Crack
+Mescaline
+Restaurant
+Chain
+restaurant
+Cheesecake
+Factory
+Texas Roadhouse
+Olive Garden
+P.F. Chang's China Bistro
+Carrabba's Italian Grill
+Red Lobster
+Outback Steakhouse
+Cracker Barrel
+Red Robin
+Longhorn
+Steakhouse
+Golden Corral
+Applebee's
+Chili's
+T.G.I. Friday's
+Friday's
+Fast Food
+Papa John's
+Jack in the Box
+Arby's
+Dairy Queen
+Little Caesars
+Carl's Jr./Hardee's
+Carl's Jr
+Hardee's
+Chipotle
+Sonic Drive-In
+Domino's
+KFC
+Panera Bread
+Pizza Hut
+Chick-fil-A
+Dunkin' Donuts
+Taco Bell
+Wendy's
+Burger King
+Subway
+Starbucks
+McDonald's
+Sodas
+Diet Coke
+Coke
+Coca Cola
+Coca-Cola
+Coca-Cola Classic
+Dr Pepper
+Sprite
+Fanta
+Mountain Dew
+Pepsi
+Red Bull
+Hydrocarbons
+Chlorinated
+hydrocarbons
+Carcinogenic
+Lead
+Naphthylamine
+Mercury
+Benzopyrene
+Nicotine
+Arsenic
+Asbestos
+Benzene
+Benzidine
+Beryllium
+Butadiene
+Cadmium
+Coal Tar
+Coal-Tar Pitch
+Coke-Oven
+Emissions
+Crystalline
+Silica
+Erionite
+Ethylene
+Oxide
+Formaldehyde
+Hexavalent
+Chromium
+Indoor
+Emissions
+Mineral
+Oil
+Untreated
+Treated
+Nickel
+Nickel
+Compounds
+Radon
+Tobacco
+Smoke
+Environmental
+Soot
+Thorium
+Vinyl
+Chloride
+Wood Dust
+Tobacco
+Smoking
+Cigarette
+Marlboro
+Mild Seven
+Derby
+Camel
+Kent
+Lucky Strike
+Newport
+Pall Mall
+Dunhill
+Winston
+L&M
+Benson & Hedges
+Parliament
+Mustang
+cigarettes
+immune
+WBCs
+RBCs
+Infectious
+Immunosuppression
+Radiation
+Ultraviolet
+radiation
+transplant
+medicines
+chemotherapy
+radiotherapy
+syndrome
+UV radiation
+Obesity
+blood pressure
+Jager
+Wine
+Vodka
+Cocktail
+Liquor
+Tequila
+Beer
+Heineken
+Coors
+Budweiser
+Whikey
+Brandy
+Bourbon
+Fireball
+Jack Daniels
+Bacardi
+Crown Royal
+Martini
+Champagne
+cholesterol
+weight
+Africa
+baby
+heart
+hot
+cold
+people
+environment
+ultrasound
+diet
+age
+place
+sick
+virus
+vitamin
+stress
+genetics
+vascular
+protein
+ovary
+victim
+mortal
+endemia
+pandemic
+epidemic
+fever
+cough
+phlegm
+mucus
+hospital
+medical
+clinical
+clinic
+medicine
+fitness
+health
+diet
