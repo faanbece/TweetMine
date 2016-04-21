@@ -1,6 +1,20 @@
+import string as cadena
+import re
+import sys
 from nltk.corpus import stopwords
 
 def main():
+    reload(sys)
+    sys.setdefaultencoding('utf8')
+
+
+
+
+
+
+
+
+
 
     document_1_text = 'This is document one'
     document_2_text = 'This is document two'
@@ -24,6 +38,44 @@ def main():
     print ""
     print ""
 
+
+
+
+    print ""
+    print ""
+
+
+    print "   -    "
+    string= '####<p>Hello World</p><a href="example.com">More Examples</a><a href="http://example2.com">Even More Examples</a>'
+    string+='bit.do 	 Bit.do URL Shortener - Shorten, customize and track your links  t.co 	Twitter URL Shortener  (can not be used outside Twitter) lnkd.in 	lnkd.in is the URL Shortener used by Linked In. db.tt 	 db.tt is the URL Shortener used by Dropbox. Example: https://db.tt/b5gwXppx qr.ae 	Quora uses the  short domain qr.ae when generating external links back to content on Quora. adf.ly 	AdF.ly - The  URL shortener service that pays you! Earn money for every visitor to your '
+    """regex= 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
+    """
+    regex= '((?:http[s]?(?:[://])|(?:(?:[a-zA-Z]|[0-9])*[.][a-zA-Z]))(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))*)'
+
+    urls = re.findall(regex, string)
+
+
+    print urls
+    print "   -    "
+    print "    -   "
+    print "     -  "
+    print "      - "
+
+
+    for url in urls:
+        string=string.replace(url,'')
+
+    """ stng = "asd a.sd a.,d.,.2,.,.,s.d,a.sd,a.sdom?=2=)(&&%$)" """
+    regex = re.compile('[%s]' % re.escape(cadena.punctuation))
+    out = regex.sub(' ', string)
+    out= ' '.join(out.split())
+
+    print out
+
+    print ""
+    print ""
+    print ""
+
     STOP_TYPES=['DET','CNJ']
     """
     nltk.download('stopwords')
@@ -38,12 +90,9 @@ def main():
 
     print sentence
     print ""
-    print filtered
 
+    print ' '.join(filtered)
 
-
-    print ""
-    print ""
     """
     Recorrer el arreglo de tweets, y comparar la cantidad de concidencias de un tweet con otro
     solo gardar los 3 o 4 mayores resultados obtenidos al comparar un tweet con otro, actualizar
